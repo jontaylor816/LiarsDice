@@ -1,0 +1,3 @@
+﻿  Final.cpp
+C:\Users\deusm\Desktop\iit312\projects\Final\Final\Final.cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Final.vcxproj -> C:\Users\deusm\Desktop\iit312\projects\Final\Debug\Final.exe
